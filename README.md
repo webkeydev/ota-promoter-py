@@ -2,7 +2,7 @@
 
 This is a python client implementation for ota-promoter server service.
 With this tool you can update your MicroPython project on your running
-devices. For more details visit the [ota-promoter-server](https://github.com/pappz/ota-promoter)
+devices. For more details visit [ota-promoter-server](https://github.com/pappz/ota-promoter)
 
 I tested this tool on ESP-8266 device.
 
