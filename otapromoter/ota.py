@@ -40,7 +40,7 @@ class PromotedInfo(object):
 class OTAPromoter(object):
     __local_files = {}
 
-    def __init__(self, server='http://127.0.0.1:8080', main_dir='/', next_dir='/update'):
+    def __init__(self, server='http://127.0.0.1:9090', main_dir='/', next_dir='/update'):
         self.__server_address = server
         self.__main_dir = main_dir
         self.__next_dir = next_dir
